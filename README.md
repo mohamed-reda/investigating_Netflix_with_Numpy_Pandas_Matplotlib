@@ -1,5 +1,3 @@
-# investigating_Netflix_with_Numpy_Pandas_Matplotlib
-
 # Project: Netflix Movie Duration Analysis
 
 ## Introduction
